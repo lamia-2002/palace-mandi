@@ -12,7 +12,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,700;0,800;0,900;1,700&display=swap" rel="stylesheet">
     
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ secure_asset('css/palace-mandi.css') }}">
+    <link rel="stylesheet" href="/css/palace-mandi.css">
     
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -65,7 +65,7 @@
     <section class="about" id="about">
         <div class="about-box">
             <div class="about-image">
-                <img src="{{ secure_asset('assets/images/about_us.jpg') }}" alt="Palace Mandi Interior">
+                <img src="/assets/images/about_us.jpg" alt="Palace Mandi Interior">
             </div>
             <div class="about-content">
                 <h2 class="section-title">The Legend of Palace Mandi</h2>
@@ -88,7 +88,7 @@
                 <div class="swiper-slide">
                     <div class="menu-card">
                         <div class="menu-card-img-wrap">
-                            <img src="{{ secure_asset('assets/images/hero_mandi.png') }}" alt="Lamb Mandi">
+                            <img src="/assets/images/hero_mandi.png" alt="Lamb Mandi">
                         </div>
                         <div class="menu-info">
                             <h3>Lamb Mandi</h3>
@@ -100,7 +100,7 @@
                 <div class="swiper-slide">
                     <div class="menu-card">
                         <div class="menu-card-img-wrap">
-                            <img src="{{ secure_asset('assets/images/grilled_chicken.png') }}" alt="Chicken Mandhi">
+                            <img src="/assets/images/grilled_chicken.png" alt="Chicken Mandhi">
                         </div>
                         <div class="menu-info">
                             <h3>Chicken Mandhi</h3>
@@ -112,7 +112,7 @@
                 <div class="swiper-slide">
                     <div class="menu-card">
                         <div class="menu-card-img-wrap">
-                            <img src="{{ secure_asset('assets/images/kunafa.png') }}" alt="Kunafa">
+                            <img src="/assets/images/kunafa.png" alt="Kunafa">
                         </div>
                         <div class="menu-info">
                             <h3>Golden Kunafa</h3>
@@ -124,7 +124,7 @@
                 <div class="swiper-slide">
                     <div class="menu-card">
                         <div class="menu-card-img-wrap">
-                            <img src="{{ secure_asset('assets/images/hero_plate.png') }}" alt="Chicken Madhoodh">
+                            <img src="/assets/images/hero_plate.png" alt="Chicken Madhoodh">
                         </div>
                         <div class="menu-info">
                             <h3>Chicken Madhoodh</h3>
@@ -136,7 +136,7 @@
                 <div class="swiper-slide">
                     <div class="menu-card">
                         <div class="menu-card-img-wrap">
-                            <img src="{{ secure_asset('assets/images/barbeque_chicken.png') }}" alt="Barbique Chicken">
+                            <img src="/assets/images/barbeque_chicken.png" alt="Barbique Chicken">
                         </div>
                         <div class="menu-info">
                             <h3>Barbique Chicken</h3>
